@@ -1,0 +1,1 @@
+This contains the tasks completed during my first week of the paritie bootcamp 2.0 
