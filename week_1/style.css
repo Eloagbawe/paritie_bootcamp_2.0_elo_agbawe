@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    color: #182954;
+}
+/*body{
+    background-image: url("bk.jpg");
+    background-position: cover;
+}*/
+h1{
+    margin: 0 auto;
+    width:300px;
+    padding-top: 100px;
+}
+form{
+ padding:50px 0 0 550px;
+}
+input{
+    padding:10px;
+    margin:10px 0 20px 0;
+    width:300px;
+}
+button{
+    padding:10px;
+    margin:10px 0 20px 0;
+    width: 325px;
+}
